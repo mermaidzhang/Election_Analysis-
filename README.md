@@ -2,7 +2,7 @@
 # Election_Analysis-
 ## Overview of Election Audit
 In this audit, an assessment towards tabulated results for US CONGRESSIONAL Precint in Colorado. I was tasked to report the total number of cotes cast, the total number of votes for each candidate, the percentage votes for each candidate and the winner of the election based on the popular vote. 
-## Election Audit REsults 
+## Election Audit Results 
 In this audit, we will provide below info for electoin commission to assess: 
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
